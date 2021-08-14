@@ -1,1 +1,1 @@
-# Equilizer-Plugin
+Code for the equilizer plugin
